@@ -2,25 +2,25 @@
 
 Емпіричні дані показують час виконання (в секундах) алгоритмів сортування на наборах даних різного розміру:
 
-Dataset size   : 10
-Merge Sort     : 0.000011
-Insertion Sort : 0.000005
-Timsort        : 0.000001
+Dataset size   : 10;
+Merge Sort     : 0.000011;
+Insertion Sort : 0.000005;
+Timsort        : 0.000001;
 
-Dataset size   : 100
-Merge Sort     : 0.000092
-Insertion Sort : 0.000126
-Timsort        : 0.000004
+Dataset size   : 100;
+Merge Sort     : 0.000092;
+Insertion Sort : 0.000126;
+Timsort        : 0.000004;
 
-Dataset size   : 1000
-Merge Sort     : 0.001114
-Insertion Sort : 0.014117
-Timsort        : 0.000065
+Dataset size   : 1000;
+Merge Sort     : 0.001114;
+Insertion Sort : 0.014117;
+Timsort        : 0.000065;
 
-Dataset size   : 10000
-Merge Sort     : 0.014984
-Insertion Sort : 1.355066
-Timsort        : 0.000726
+Dataset size   : 10000;
+Merge Sort     : 0.014984;
+Insertion Sort : 1.355066;
+Timsort        : 0.000726;
 
 
 ### Основні спостереження
